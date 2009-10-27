@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  auction_ends_at: 2009-10-27 21:22:36
+
+two:
+  name: MyString
+  auction_ends_at: 2009-10-27 21:22:36
